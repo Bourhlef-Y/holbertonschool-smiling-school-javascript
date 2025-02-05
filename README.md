@@ -1,3 +1,33 @@
+# Holberton Smiling School
+
+Un projet web responsive utilisant Bootstrap 4, jQuery et des polices Google.
+
+## Technologies utilisées
+
+- HTML5
+- CSS3
+- Bootstrap 4.4.1
+- jQuery 3.4.1
+- Google Fonts (Source Sans Pro, Coiny)
+
+## Structure des fichiers
+
+- `homepage.html` - Page d'accueil principale
+- `pricing.html` - Page de tarification
+- `styles.css` - Styles CSS personnalisés minimaux
+- `scripts.js` - Code JavaScript/jQuery
+
+## Installation
+
+1. Clonez ce dépôt
+2. Ouvrez les fichiers HTML dans votre navigateur
+
+## Notes
+
+- Le CSS personnalisé est minimisé en utilisant au maximum les classes Bootstrap
+- Le JavaScript ne s'exécute qu'une fois le document chargé
+- Le site est entièrement responsive
+
 # Holberton Smiling School (Bootstrap Project)
 
 These group of web pages were coded from scratch with the help of the Boostrap Framework and based on some design models given on Figma.
@@ -75,3 +105,4 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 # Author:
 
 Jhoan Zamora: [jzamora5](https://github.com/jzamora5)
+Yacine Bourhlef  [Yacine Bourhlef](https://github.com/Bourhlef-Y)
